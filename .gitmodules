@@ -102,3 +102,7 @@
 	path = connector-magento
 	url = https://github.com/OCA/connector-magento.git
 	branch = 7.0
+[submodule "cubicerp"]
+	path = cubicerp
+	url = https://github.com/ketulketal/cubicerp.git
+	branch = 7.0
