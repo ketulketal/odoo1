@@ -16,8 +16,8 @@ PATH=/sbin:/bin:/usr/sbin:/usr/bin
 DAEMON=/opt/openerp2/odoo/openerp-server
 NAME=openerp2
 DESC=openerp2
-CONFIG=/etc/openerp2/openerp2.conf
-LOGFILE=/var/log/openerp2/openerp2.log
+CONFIG=/etc/openerp/openerp2.conf
+LOGFILE=/var/log/openerp/openerp2.log
 USER=openerp
 
 test -x ${DAEMON} || exit 0
